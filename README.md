@@ -22,7 +22,7 @@
   
 # Test
 
-- Download our pre-trained model and put the `pretrain.pth` into `./checkpoint` folder
+- Download our [pre-trained model](https://drive.google.com/drive/folders/1qRyDQmh4mccejjK6A4OuWsy-L2ELyu0F?usp=sharing) and put the `pretrain.pth` into `./checkpoint` folder
 
 ### Test with the pre-trained model  
 ```shell
@@ -32,7 +32,7 @@ $ python test.py
 
 # Train
 
-- Download the vgg19-pretrained model and put it into `./checkpoint` folder.
+- Download the [vgg19-pretrained model](https://drive.google.com/drive/folders/1qRyDQmh4mccejjK6A4OuWsy-L2ELyu0F?usp=sharing) and put it into `./checkpoint` folder.
 - Organize the training dataset according to our code implementation, i.e.,
 ```shell
 $ cd synthetic
